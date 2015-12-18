@@ -4,13 +4,11 @@
 {
     //Required. Inputs the module expects.
     "inputs": [
-        //e.g.
-        /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "bookmark_id",
+            "title":"B
+            ookmark ID"
         }
-        */
     ],
     //Required. Outputs the module emits.
     "outputs": [
