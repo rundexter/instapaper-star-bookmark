@@ -6,8 +6,7 @@
     "inputs": [
         {
             "id": "bookmark_id",
-            "title":"B
-            ookmark ID"
+            "title":"Bookmark ID"
         }
     ],
     //Required. Outputs the module emits.
