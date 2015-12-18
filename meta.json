@@ -28,5 +28,6 @@
             "title":"Description"
         }
     ],
+    "icon": "dex-instapaper",
     "title": "Instapaper Star Bookmark" /* Required.A display name for the module */
 }
